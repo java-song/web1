@@ -1,0 +1,37 @@
+body
+{
+    margin: 0px auto;
+
+}
+
+.s-all
+{
+    width: 100%;
+    height: 100%;
+    background-color: dimgrey;
+}
+
+.stop
+{
+    float: left;
+    width: 100%;
+    height: 100px;
+    background-color: forestgreen;
+}
+
+.s-dao
+{
+    width: 300px;
+    height: 700px;
+    float: left;
+    background-color: lightgreen;
+
+}
+
+#s-dao_1
+{
+    font-size: 20pt;
+    list-style-type: none;
+    text-decoration: none;
+    text-align: center;
+}
